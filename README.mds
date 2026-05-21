@@ -1,0 +1,17 @@
+# Face Recognition Attendance System
+
+## Description
+AI-based Java application that automatically marks student attendance using face recognition.
+
+## Technologies Used
+- Java
+- OpenCV
+- MySQL
+- JDBC
+- Swing
+
+## Features
+- Face Detection
+- Automatic Attendance
+- Student Registration
+- Attendance Reports
