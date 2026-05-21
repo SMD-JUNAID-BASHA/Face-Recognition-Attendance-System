@@ -19,9 +19,9 @@ public class DBConnection {
             String username = "root";
 
          
-            String password = "password";
+            String password = "1234";
 
-            // Create Connection
+            
             conn = DriverManager.getConnection(url, username, password);
 
             System.out.println("Database Connected Successfully");
